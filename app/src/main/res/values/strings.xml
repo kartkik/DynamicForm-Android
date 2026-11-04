@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dynamic Form</string>
+    <string name="enrollment_form">Enrollment Form</string>
+    <string name="step_format">Step %1$d of %2$d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading form...</string>
+    <string name="submission_successful">Form Submitted Successfully!</string>
+    <string name="ok">OK</string>
+</resources>
